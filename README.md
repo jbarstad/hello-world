@@ -1,2 +1,3 @@
 # hello-world
-Just another repo
+Just another curious character looking to learn a bit of coding.
+
